@@ -3,7 +3,7 @@
 import { jsx } from "theme-ui";
 import Link from "next/link";
 
-export default function Page() {
+export default function HomePage() {
   <div sx={{ height: `calc(100vh - 60px)` }}>
     <div
       sx={{
